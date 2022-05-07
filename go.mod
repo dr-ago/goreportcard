@@ -1,6 +1,6 @@
-module github.com/gojp/goreportcard
+module github.com/dr-ago/goreportcard
 
-go 1.16
+go 1.17
 
 require (
 	github.com/DataDog/zstd v1.4.8 // indirect
